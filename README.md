@@ -17,6 +17,10 @@ The analysis focuses on:
 - Overall body weight trends
 
 ## Key Findings
-- Exercise compliance varied across clients and across the three-month period.
-- Body weight changed over time, showing measurable client progress.
-- Comparing compliance and weight trends helped identify differences in client consistency and outcomes. 
+- Avergae exercise compliance increased from 61.0% in May to 69.7% in July.
+- BF003 had the largest weight decrease, losing 11.0 lbs from May to July.
+- BF001 lost approximately 6.3 lbs while exercise compliance increased from 50% to 66%.
+- BF002 gained approximately 10.lb while exercise compliance decreased from 100% to 77%.
+
+  ## Limitations
+  This analysis is based on three clients with complete historical data over a three-month period. Due to the small sample size and limited time frame, the findings should be interpreted as client-specific trends rather than conclusions that apply to all Barrera's Fitness clients. 
