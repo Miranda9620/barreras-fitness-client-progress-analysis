@@ -25,9 +25,9 @@ The analysis focuses on:
   ## Limitations
   This analysis is based on three clients with complete historical data over a three-month period. Due to the small sample size and limited time frame, the findings should be interpreted as client-specific trends rather than conclusions that apply to all Barrera's Fitness clients.
 
-  ##Presentation
+  ## Presentation
   View the full capstone presentation here: [Barrera's Fitness Client Progress Analysis](Barreras_Fitness_Client_Progress_Capstone.pdf)
 
   ## Tableau Dashboard
   View the interactive dashboard here: [Barrera's Fitness Client Dashboard]
-  https://public.tableau.com/views/BarrerasFitnessClientDashboard/BarrerasFitnessClientProgressDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  (https://public.tableau.com/views/BarrerasFitnessClientDashboard/BarrerasFitnessClientProgressDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
