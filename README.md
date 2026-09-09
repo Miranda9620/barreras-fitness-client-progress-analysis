@@ -29,4 +29,5 @@ The analysis focuses on:
   View the full capstone presentation here: [Barrera's Fitness Client Progress Analysis](Barreras_Fitness_Client_Progress_Capstone.pdf)
 
   ## Tableau Dashboard
-  View the interactive dashboard here: [Barrera's Fitness Client Dashboard](https://public.tableau.com/views/BarrerasFitnessClientDashboard/BarrerasFitnessClientProgressDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  View the interactive dashboard here: [Barrera's Fitness Client Dashboard]
+  https://public.tableau.com/views/BarrerasFitnessClientDashboard/BarrerasFitnessClientProgressDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
