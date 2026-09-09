@@ -7,7 +7,7 @@ This data analytics capstone project analyzes client exercise compliance and bod
 - Excel - data organization and cleaning
 - BigQuery / SQL - data analysis
 - GitHub - project documentation and portfolio presentation
-- 
+  
 ## Analysis 
 The analysis focuses on:
 - Average exercise compliance by month
