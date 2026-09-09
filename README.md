@@ -23,4 +23,7 @@ The analysis focuses on:
 - BF002 gained approximately 10.lb while exercise compliance decreased from 100% to 77%.
 
   ## Limitations
-  This analysis is based on three clients with complete historical data over a three-month period. Due to the small sample size and limited time frame, the findings should be interpreted as client-specific trends rather than conclusions that apply to all Barrera's Fitness clients. 
+  This analysis is based on three clients with complete historical data over a three-month period. Due to the small sample size and limited time frame, the findings should be interpreted as client-specific trends rather than conclusions that apply to all Barrera's Fitness clients.
+
+  ##Presentation
+  View the full capstone presentation here: [Barrera's Fitness Client Progress Analysis](Barreras_Fitness_Client_Progress_Capstone.pdf)
